@@ -9,9 +9,9 @@ terraform {
 
 
 provider "azurerm" {
- subscription_id = "***REMOVED***"
-  tenant_id = "***REMOVED***"
-  client_id = "***REMOVED***"
-  client_secret = "***REMOVED***"
+ subscription_id = "SECRET"
+  tenant_id = "SECRET"
+  client_id = "SECRET"
+  client_secret = "SECRET"
   features {}  
 }
