@@ -1,6 +1,7 @@
 # Azure Terraform Infrastructure
 
-![Terraform Logo](https://www.terraform.io/assets/images/og-image-8b3e4f7d.png)
+
+
 This repository automates the creation of Azure infrastructure using Terraform and includes SQL scripts to populate an Azure SQL database. It demonstrates infrastructure-as-code practices and a simple solution for cloud infrastructure management with Azure.
 
 ## Project Structure
